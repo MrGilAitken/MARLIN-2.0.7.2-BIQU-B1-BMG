@@ -31,8 +31,8 @@ Tutorial:
 ![BABYSTEPS](https://github.com/MrGilAitken/MARLIN-2.0.7.2-BIQU-B1-BMG/blob/main/images/MM09.PNG)
 ![BMG](https://github.com/MrGilAitken/MARLIN-2.0.7.2-BIQU-B1-BMG/blob/main/images/MM10.PNG)
 ![BMG](https://github.com/MrGilAitken/MARLIN-2.0.7.2-BIQU-B1-BMG/blob/main/images/MM11.PNG)
-![COMPILADO OK](https://github.com/MrGilAitken/MARLIN-2.0.7.2-BIQU-B1-SERIE-BMG/blob/main/images/MM12.PNG)
-![SUBIR FIRMWARE](https://github.com/MrGilAitken/MARLIN-2.0.7.2-BIQU-B1-SERIE-BMG/blob/main/images/MM13.PNG)
+![COMPILADO OK](https://github.com/MrGilAitken/MARLIN-2.0.7.2-BIQU-B1-BMG/blob/main/images/MM12.PNG)
+![SUBIR FIRMWARE](https://github.com/MrGilAitken/MARLIN-2.0.7.2-BIQU-B1-BMG/blob/main/images/MM13.PNG)
 
 Blog personal donde aprender mas:
 --------------------
