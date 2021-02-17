@@ -3,6 +3,12 @@ Marlin Firmware para Biqu B1 con BMG
 
 MI LEMA; Sino me a costado aprenderlo, pues tampoco enseñarlo...
 
+Archivos:
+--------------------
++ FIRMWARE PRECOMPILADO
++ CARPETA DATA; Configuraciones para Marlin
++ CARPETA IMAGES; Tutorial de Apoyo...
+
 Mejoras:
 --------------------
 + PANTALLA DE INICIO CON LOGO
